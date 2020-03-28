@@ -24,7 +24,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/Karthick/Downloads/selenium-server-standalone-3.141.59.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Karthick/Desktop/commons-io-2.6/commons-io-2.6.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="lib" path="C:/Users/Karthick/.p2/pool/plugins/org.junit_4.12.0.v201504281640/junit.jar">
@@ -33,9 +32,10 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/Karthick/.p2/pool/plugins/org.testng_7.0.0.r201908191551.jar" sourcepath="C:/Users/Karthick/.p2/pool/plugins/org.testng.source_7.0.0.r201908191551.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Karthick/Desktop/commons-io-2.6/commons-io-2.6-javadoc.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Karthick/Desktop/commons-io-2.6/commons-io-2.6-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Karthick/Desktop/commons-io-2.6/commons-io-2.6-tests.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Karthick/Desktop/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karthick/Downloads/commons-io-2.6-bin (1)/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karthick/Downloads/commons-io-2.6-bin (1)/commons-io-2.6/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karthick/Downloads/commons-io-2.6-bin (1)/commons-io-2.6/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karthick/Downloads/commons-io-2.6-bin (1)/commons-io-2.6/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karthick/Downloads/commons-io-2.6-bin (1)/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

@@ -19,7 +19,7 @@ Scenario Outline: User checking the login function using valid username and pass
 	
 	
 	
-	
+@SanityTest
 Scenario: User checking the Search Hotel functionality by selecting the valid Hotel details 
 	Given User already logged in the booking page. 
 	When User selects the  location from the location field 
@@ -33,7 +33,8 @@ Scenario: User checking the Search Hotel functionality by selecting the valid Ho
 	When User click on radio button 
 	And click on continue button 
 	Then user confirms the confirmation is successful
-	 	
+	
+@SmokeTest	
 Scenario: User checking the Select Booking Details Functionality by checking the valid Hotel Booking Page 
 	Given the page is already partially autopopulated the rest is dropdown 
 	When User enter valid first name "karthick" the First name field 
