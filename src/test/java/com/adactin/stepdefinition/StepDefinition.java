@@ -2,6 +2,7 @@ package com.adactin.stepdefinition;
 
 import java.io.IOException;
 
+import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 
 import com.adactin.baseclass.BaseClass;
@@ -204,7 +205,7 @@ public class StepDefinition extends BaseClass {
 
 	@Then("^User is logged out and navigated back to login page$")
 	public void user_is_logged_out_and_navigated_back_to_login_page() {
-
+		Assert.assertEquals("", "  ");
 	}
 
 }
