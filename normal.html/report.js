@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 5492193563,
+  "duration": 34476760,
   "status": "passed"
 });
 formatter.background({
@@ -31,14 +31,14 @@ formatter.match({
   "location": "StepDefinition.the_user_is_logged_in()"
 });
 formatter.result({
-  "duration": 208418241834,
+  "duration": 74600867882,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.goes_to_the_landing_page()"
 });
 formatter.result({
-  "duration": 35513838,
+  "duration": 81129,
   "status": "passed"
 });
 formatter.scenario({
@@ -119,7 +119,7 @@ formatter.match({
   "location": "StepDefinition.the_page_is_already_partially_autopopulated_the_rest_is_dropdown()"
 });
 formatter.result({
-  "duration": 528908692,
+  "duration": 331845,
   "status": "passed"
 });
 formatter.match({
@@ -132,7 +132,7 @@ formatter.match({
   "location": "StepDefinition.user_enter_the_First_name_field(String)"
 });
 formatter.result({
-  "duration": 84550301252,
+  "duration": 4358272585,
   "status": "passed"
 });
 formatter.match({
@@ -145,7 +145,7 @@ formatter.match({
   "location": "StepDefinition.user_enter_the_Last_name_field(String)"
 });
 formatter.result({
-  "duration": 10013784057,
+  "duration": 2050346214,
   "status": "passed"
 });
 formatter.match({
@@ -158,7 +158,7 @@ formatter.match({
   "location": "StepDefinition.user_enter_the_Billing_address_field(String)"
 });
 formatter.result({
-  "duration": 20345217708,
+  "duration": 4809186309,
   "status": "passed"
 });
 formatter.match({
@@ -171,28 +171,28 @@ formatter.match({
   "location": "StepDefinition.user_enter_the_valid_Credit_Card_Number_field(String)"
 });
 formatter.result({
-  "duration": 2441261365,
+  "duration": 2012478178,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_select_Credit_Card_Type_in_the_Credit_Card_field()"
 });
 formatter.result({
-  "duration": 3169497374,
+  "duration": 2030709163,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_selects_the_card_in_the_Expiry_Date_field()"
 });
 formatter.result({
-  "duration": 2142815810,
+  "duration": 2008348435,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_selects_the_card_expiry_year_field()"
 });
 formatter.result({
-  "duration": 2302935978,
+  "duration": 2094261758,
   "status": "passed"
 });
 formatter.match({
@@ -205,33 +205,33 @@ formatter.match({
   "location": "StepDefinition.user_enters_in_the_CVV_Number_field(String)"
 });
 formatter.result({
-  "duration": 2158385187,
+  "duration": 2005228890,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.click_the_Book_Now_Button()"
 });
 formatter.result({
-  "duration": 2175435407,
+  "duration": 2022563549,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.click_the_Logout_Button()"
 });
 formatter.result({
-  "duration": 3909730164,
+  "duration": 2118510438,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_is_logged_out_and_navigated_back_to_login_page()"
 });
 formatter.result({
-  "duration": 3479409930,
+  "duration": 314574036,
   "error_message": "org.junit.ComparisonFailure: expected:\u003c[]\u003e but was:\u003c[  ]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat com.adactin.stepdefinition.StepDefinition.user_is_logged_out_and_navigated_back_to_login_page(StepDefinition.java:208)\r\n\tat ✽.Then User is logged out and navigated back to login page(src/test/java/com/adactin/feature/Adactin.feature:48)\r\n",
   "status": "failed"
 });
 formatter.after({
-  "duration": 8802650074,
+  "duration": 15598700,
   "status": "passed"
 });
 });

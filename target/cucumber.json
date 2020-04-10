@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 208418241834,
+              "duration": 74600867882,
               "status": "passed"
             },
             "line": 4,
@@ -23,7 +23,7 @@
           },
           {
             "result": {
-              "duration": 35513838,
+              "duration": 81129,
               "status": "passed"
             },
             "line": 5,
@@ -39,7 +39,7 @@
         "before": [
           {
             "result": {
-              "duration": 5492193563,
+              "duration": 34476760,
               "status": "passed"
             },
             "match": {
@@ -54,7 +54,7 @@
         "after": [
           {
             "result": {
-              "duration": 8802650074,
+              "duration": 15598700,
               "status": "passed"
             },
             "match": {
@@ -67,7 +67,7 @@
         "steps": [
           {
             "result": {
-              "duration": 528908692,
+              "duration": 331845,
               "status": "passed"
             },
             "line": 37,
@@ -79,7 +79,7 @@
           },
           {
             "result": {
-              "duration": 84550301252,
+              "duration": 4358272585,
               "status": "passed"
             },
             "line": 38,
@@ -97,7 +97,7 @@
           },
           {
             "result": {
-              "duration": 10013784057,
+              "duration": 2050346214,
               "status": "passed"
             },
             "line": 39,
@@ -115,7 +115,7 @@
           },
           {
             "result": {
-              "duration": 20345217708,
+              "duration": 4809186309,
               "status": "passed"
             },
             "line": 40,
@@ -133,7 +133,7 @@
           },
           {
             "result": {
-              "duration": 2441261365,
+              "duration": 2012478178,
               "status": "passed"
             },
             "line": 41,
@@ -151,7 +151,7 @@
           },
           {
             "result": {
-              "duration": 3169497374,
+              "duration": 2030709163,
               "status": "passed"
             },
             "line": 42,
@@ -163,7 +163,7 @@
           },
           {
             "result": {
-              "duration": 2142815810,
+              "duration": 2008348435,
               "status": "passed"
             },
             "line": 43,
@@ -175,7 +175,7 @@
           },
           {
             "result": {
-              "duration": 2302935978,
+              "duration": 2094261758,
               "status": "passed"
             },
             "line": 44,
@@ -187,7 +187,7 @@
           },
           {
             "result": {
-              "duration": 2158385187,
+              "duration": 2005228890,
               "status": "passed"
             },
             "line": 45,
@@ -205,7 +205,7 @@
           },
           {
             "result": {
-              "duration": 2175435407,
+              "duration": 2022563549,
               "status": "passed"
             },
             "line": 46,
@@ -217,7 +217,7 @@
           },
           {
             "result": {
-              "duration": 3909730164,
+              "duration": 2118510438,
               "status": "passed"
             },
             "line": 47,
@@ -229,7 +229,7 @@
           },
           {
             "result": {
-              "duration": 3479409930,
+              "duration": 314574036,
               "error_message": "org.junit.ComparisonFailure: expected:\u003c[]\u003e but was:\u003c[  ]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat com.adactin.stepdefinition.StepDefinition.user_is_logged_out_and_navigated_back_to_login_page(StepDefinition.java:208)\r\n\tat ✽.Then User is logged out and navigated back to login page(src/test/java/com/adactin/feature/Adactin.feature:48)\r\n",
               "status": "failed"
             },
