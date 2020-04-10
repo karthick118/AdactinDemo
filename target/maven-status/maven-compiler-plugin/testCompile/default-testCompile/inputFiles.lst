@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\helper\ConfigurationReader.java
 F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\runner\Runner.java
 F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\stepdefinition\StepDefinitionHooks.java
@@ -10,3 +11,20 @@ F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\pom\Se
 F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\pom\BookedPage.java
 F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\pom\ConfirmationBookedPage.java
 F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\stepdefinition\StepDefinition.java
+=======
+F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\runner\Runner.java
+F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\runner\Runner1.java
+F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\helper\FileReaderManager.java
+F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\runner\ReRunner.java
+F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\pom\LoginPage.java
+F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\helper\PageObjectManager.java
+F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\pom\SearchHotel.java
+F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\stepdefinition\StepDefinition.java
+F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\helper\ConfigurationReader.java
+F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\runner\Runner2.java
+F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\stepdefinition\StepDefinitionHooks.java
+F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\pom\SelectHotel.java
+F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\runner\Runner3.java
+F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\pom\BookedPage.java
+F:\Users\Karthick\eclipse-workspace\AdactinDemo\src\test\java\com\adactin\pom\ConfirmationBookedPage.java
+>>>>>>> master

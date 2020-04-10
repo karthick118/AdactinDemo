@@ -14,13 +14,15 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "src\\test\\java\\com\\adactin\\feature", 
-        glue = "com\\adactin\\stepdefinition", 
-        plugin = {"pretty", "html:Report", 
-        		  "com.cucumber.listener.ExtentCucumberFormatter:Report\\extentReport.html"}, 		  
-		monochrome = true, 
-		dryRun = false,
-		strict = true)
+@CucumberOptions(features = "src\\test\\java\\com\\adactin\\feature\\Adactin.feature", 
+                 glue = "com\\adactin\\stepdefinition", 
+                 plugin = {"pretty", "html:Report", 
+        		  "com.cucumber.listener.ExtentCucumberFormatter:Report/extentReport.html","rerun:Report/FailedScanario.txt"},
+                 
+	         	 monochrome = true, 
+		         dryRun = false,
+	         	 strict = true
+	         	 )
 
 public class Runner {
 	public static WebDriver driver;

@@ -1,4 +1,5 @@
 com\adactin\helper\ConfigurationReader.class
+<<<<<<< HEAD
 com\adactin\runner\ReRunner.class
 com\adactin\helper\PageObjectManager.class
 com\adactin\pom\BookedPage.class
@@ -10,3 +11,19 @@ com\adactin\pom\SearchHotel.class
 com\adactin\stepdefinition\StepDefinitionHooks.class
 com\adactin\pom\SelectHotel.class
 com\adactin\stepdefinition\StepDefinition.class
+=======
+com\adactin\runner\Runner2.class
+com\adactin\pom\BookedPage.class
+com\adactin\runner\Runner.class
+com\adactin\helper\FileReaderManager.class
+com\adactin\pom\SearchHotel.class
+com\adactin\stepdefinition\StepDefinitionHooks.class
+com\adactin\runner\Runner3.class
+com\adactin\stepdefinition\StepDefinition.class
+com\adactin\runner\ReRunner.class
+com\adactin\helper\PageObjectManager.class
+com\adactin\pom\LoginPage.class
+com\adactin\pom\ConfirmationBookedPage.class
+com\adactin\pom\SelectHotel.class
+com\adactin\runner\Runner1.class
+>>>>>>> master

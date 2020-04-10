@@ -1,0 +1,258 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 74600867882,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "the user is logged in",
+            "match": {
+              "location": "StepDefinition.the_user_is_logged_in()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 81129,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "goes to the landing page",
+            "match": {
+              "location": "StepDefinition.goes_to_the_landing_page()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 34476760,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitionHooks.beforeHooks(Scenario)"
+            }
+          }
+        ],
+        "line": 36,
+        "name": "User checking the Select Booking Details Functionality by checking the valid Hotel Booking Page",
+        "description": "",
+        "id": "testing-hotel-booking-functionality-on-adactin-application;user-checking-the-select-booking-details-functionality-by-checking-the-valid-hotel-booking-page",
+        "after": [
+          {
+            "result": {
+              "duration": 15598700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitionHooks.afterHooks(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 331845,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "the page is already partially autopopulated the rest is dropdown",
+            "match": {
+              "location": "StepDefinition.the_page_is_already_partially_autopopulated_the_rest_is_dropdown()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4358272585,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "User enter valid first name \"karthick\" the First name field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "karthick",
+                  "offset": 29
+                }
+              ],
+              "location": "StepDefinition.user_enter_the_First_name_field(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2050346214,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "User enter valid last name \"keyan\" the Last name field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "keyan",
+                  "offset": 28
+                }
+              ],
+              "location": "StepDefinition.user_enter_the_Last_name_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4809186309,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "User enter valid address \"dubai kurruku theruu\"  the Billing address field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "dubai kurruku theruu",
+                  "offset": 26
+                }
+              ],
+              "location": "StepDefinition.user_enter_the_Billing_address_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2012478178,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "User enter  the valid credi card number \"1234567891456789\"  on Credit Card Number field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1234567891456789",
+                  "offset": 41
+                }
+              ],
+              "location": "StepDefinition.user_enter_the_valid_Credit_Card_Number_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2030709163,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "User select Credit Card Type in the Credit Card field",
+            "match": {
+              "location": "StepDefinition.user_select_Credit_Card_Type_in_the_Credit_Card_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2008348435,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "User selects  the card in the Expiry Date field",
+            "match": {
+              "location": "StepDefinition.user_selects_the_card_in_the_Expiry_Date_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2094261758,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "User selects the card expiry year  field",
+            "match": {
+              "location": "StepDefinition.user_selects_the_card_expiry_year_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2005228890,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "User enters  valid ccv number \"345\" on the CVV Number field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "345",
+                  "offset": 31
+                }
+              ],
+              "location": "StepDefinition.user_enters_in_the_CVV_Number_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2022563549,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "Click the Book Now Button",
+            "match": {
+              "location": "StepDefinition.click_the_Book_Now_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2118510438,
+              "status": "passed"
+            },
+            "line": 47,
+            "name": "Click the Logout Button",
+            "match": {
+              "location": "StepDefinition.click_the_Logout_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 314574036,
+              "error_message": "org.junit.ComparisonFailure: expected:\u003c[]\u003e but was:\u003c[  ]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat com.adactin.stepdefinition.StepDefinition.user_is_logged_out_and_navigated_back_to_login_page(StepDefinition.java:208)\r\n\tat ✽.Then User is logged out and navigated back to login page(src/test/java/com/adactin/feature/Adactin.feature:48)\r\n",
+              "status": "failed"
+            },
+            "line": 48,
+            "name": "User is logged out and navigated back to login page",
+            "match": {
+              "location": "StepDefinition.user_is_logged_out_and_navigated_back_to_login_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 35,
+            "name": "@SanityTest"
+          }
+        ]
+      }
+    ],
+    "name": "testing Hotel Booking Functionality on adactin application",
+    "description": "",
+    "id": "testing-hotel-booking-functionality-on-adactin-application",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/adactin/feature/Adactin.feature"
+  }
+]

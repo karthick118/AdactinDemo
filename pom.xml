@@ -78,8 +78,13 @@
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>2.22.2</version>
 				<configuration>
+<<<<<<< HEAD
 					<parallel>Classes</parallel>
 					<threadCount>3</threadCount>
+=======
+					<parallel>classes</parallel>
+					<forkCount>4</forkCount>
+>>>>>>> master
 					<includes>
 						<include>**/*Runner*.java</include>
 					</includes>
@@ -87,6 +92,16 @@
 			</plugin>
 		</plugins>
 	</build>
+<<<<<<< HEAD
 
 
 </project>
+=======
+	<distributionManagement>
+	<repository>
+	<name>AdactinDev</name>
+	<url>https://198.93.48.202/adactin</url>
+	</repository>
+   </distributionManagement>
+   </project>
+>>>>>>> master
